@@ -1,0 +1,183 @@
+,Overall Rank ,City,Total Score ,Emotional & Physical Well-Being ,Income & Employment ,Community & Environment ,CSA Code_x,index,CBSA,Metropolitan Division Code,CSA Code_y,Metropolitan/Micropolitan Statistical Area,Metropolitan Division Title,CSA Title,County/County Equivalent,State Name,FIPS State Code,FIPS County Code,Central/Outlying County
+0,1,"Fremont, CA",76.1,1,34,1,none,1547.0,41860.0,36084.0,488.0,Metropolitan Statistical Area,"Oakland-Fremont-Berkeley, CA","San Jose-San Francisco-Oakland, CA",Alameda County,California,6.0,1.0,Central
+1,2,"San Jose, CA",70.35,2,3,64,488,1552.0,41940.0,,488.0,Metropolitan Statistical Area,,"San Jose-San Francisco-Oakland, CA",San Benito County,California,6.0,69.0,Outlying
+2,3,"Madison, WI",69.72,5,41,8,357,1035.0,31540.0,,357.0,Metropolitan Statistical Area,,"Madison-Janesville-Beloit, WI",Columbia County,Wisconsin,55.0,21.0,Outlying
+3,4,"Overland Park, KS",68.93,6,87,6,312,85.0,11860.0,,312.0,Micropolitan Statistical Area,,"Kansas City-Overland Park-Kansas City, MO-KS",Atchison County,Kansas,20.0,5.0,Central
+4,5,"San Francisco, CA",68.73,4,8,69,488,1547.0,41860.0,36084.0,488.0,Metropolitan Statistical Area,"Oakland-Fremont-Berkeley, CA","San Jose-San Francisco-Oakland, CA",Alameda County,California,6.0,1.0,Central
+5,6,"Irvine, CA",67.83,8,40,18,none,,,,,,,,,,,,
+6,7,"Columbia, MD",67.71,3,176,28,548,146.0,12580.0,,548.0,Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Anne Arundel County,Maryland,24.0,3.0,Central
+7,8,"Sioux Falls, SD",67.02,10,72,21,none,,,,,,,,,,,,
+8,9,"South Burlington, VT",66.51,11,25,47,none,272.0,15540.0,,162.0,Metropolitan Statistical Area,,"Burlington-South Burlington-Barre, VT",Chittenden County,Vermont,50.0,7.0,Central
+9,10,"Burlington, VT",65.83,28,1,11,none,272.0,15540.0,,162.0,Metropolitan Statistical Area,,"Burlington-South Burlington-Barre, VT",Chittenden County,Vermont,50.0,7.0,Central
+10,11,"Seattle, WA",65.59,7,4,119,500,1612.0,42660.0,21794.0,500.0,Metropolitan Statistical Area,"Everett, WA","Seattle-Tacoma, WA",Snohomish County,Washington,53.0,61.0,Central
+11,12,"Bismarck, ND",64.12,24,44,23,none,204.0,13900.0,,,Metropolitan Statistical Area,,,Burleigh County,North Dakota,38.0,15.0,Central
+12,13,"Oakland, CA",64.08,9,50,99,488,1547.0,41860.0,36084.0,488.0,Metropolitan Statistical Area,"Oakland-Fremont-Berkeley, CA","San Jose-San Francisco-Oakland, CA",Alameda County,California,6.0,1.0,Central
+13,14,"Huntington Beach, CA",64.04,14,52,53,none,,,,,,,,,,,,
+14,15,"San Diego, CA",63.98,21,28,27,none,1542.0,41740.0,,,Metropolitan Statistical Area,,,San Diego County,California,6.0,73.0,Central
+15,16,"Scottsdale, AZ",63.48,45,66,2,none,,,,,,,,,,,,
+16,17,"Minneapolis, MN",62.63,12,15,113,378,,,,,,,,,,,,
+17,18,"Yonkers, NY",62.5,17,118,44,none,,,,,,,,,,,,
+18,19,"Aurora, IL",62.49,16,154,15,216,,,,,,,,,,,,
+19,20,"Fargo, ND",62.42,23,47,67,244,,,,,,,,,,,,
+20,21,"Portland, ME",62.38,22,7,123,438,1382.0,38860.0,,438.0,Metropolitan Statistical Area,,"Portland-Lewiston-South Portland, ME",Cumberland County,Maine,23.0,5.0,Central
+21,22,"Raleigh, NC",62.37,13,77,76,450,1415.0,39580.0,,450.0,Metropolitan Statistical Area,,"Raleigh-Durham-Cary, NC",Franklin County,North Carolina,37.0,69.0,Central
+22,23,"Anaheim, CA",62.09,35,38,45,348,1000.0,31080.0,11244.0,348.0,Metropolitan Statistical Area,"Anaheim-Santa Ana-Irvine, CA","Los Angeles-Long Beach, CA",Orange County,California,6.0,59.0,Central
+23,24,"Garden Grove, CA",62.01,30,39,63,,,,,,,,,,,,,
+24,25,"Chula Vista, CA",61.9,33,57,36,,1542.0,41740.0,,,Metropolitan Statistical Area,,,San Diego County,California,6.0,73.0,Central
+25,26,"Santa Rosa, CA",61.52,26,19,95,,1598.0,42220.0,,,Metropolitan Statistical Area,,,Sonoma County,California,6.0,97.0,Central
+26,27,"Glendale, CA",61.29,46,69,19,,,,,,,,,,,,,
+27,28,"Oxnard, CA",61.12,47,86,9,,1303.0,37100.0,,348.0,Metropolitan Statistical Area,,"Los Angeles-Long Beach, CA",Ventura County,California,6.0,111.0,Central
+28,29,"Plano, TX",61.02,48,56,25,,,,,,,,,,,,,
+29,30,"Gilbert, AZ",60.91,54,62,13,,,,,,,,,,,,,
+30,31,"Santa Clarita, CA",60.51,36,121,37,,,,,,,,,,,,,
+31,32,"Jersey City, NJ",60.45,29,133,50,,1220.0,35620.0,29484.0,408.0,Metropolitan Statistical Area,"Lakewood-New Brunswick, NJ","New York-Newark, NY-NJ-CT-PA",Middlesex County,New Jersey,34.0,23.0,Central
+32,33,"Honolulu, HI",60.4,25,64,81,,,,,,,,,,,,,
+33,34,"Lincoln, NE",60.29,19,88,97,,982.0,30700.0,,339.0,Metropolitan Statistical Area,,"Lincoln-Beatrice, NE",Lancaster County,Nebraska,31.0,109.0,Central
+34,35,"Charleston, SC",60.23,65,21,31,,314.0,16700.0,,,Metropolitan Statistical Area,,,Berkeley County,South Carolina,45.0,15.0,Central
+35,36,"Oceanside, CA",60.23,37,71,65,,,,,,,,,,,,,
+36,37,"Pembroke Pines, FL",59.97,49,139,7,,,,,,,,,,,,,
+37,38,"Anchorage, AK",59.96,42,84,57,,63.0,11260.0,,,Metropolitan Statistical Area,,,Anchorage Municipality,Alaska,2.0,20.0,Central
+38,39,"Salt Lake City, UT",59.94,62,35,46,,1530.0,41620.0,,482.0,Metropolitan Statistical Area,,"Salt Lake City-Provo-Orem, UT-ID",Salt Lake County,Utah,49.0,35.0,Central
+39,40,"Boise, ID",59.86,31,2,149,,,,,,,,,,,,,
+40,41,"Omaha, NE",59.62,44,91,60,,,,,,,,,,,,,
+41,42,"Sacramento, CA",59.51,60,10,70,,1493.0,40900.0,,472.0,Metropolitan Statistical Area,,"Sacramento-Roseville, CA",El Dorado County,California,6.0,17.0,Central
+42,43,"Rapid City, SD",59.48,51,23,86,,1418.0,39660.0,,452.0,Metropolitan Statistical Area,,"Rapid City-Spearfish, SD",Custer County,South Dakota,46.0,33.0,Outlying
+43,44,"Santa Ana, CA",59.34,53,5,93,,,,,,,,,,,,,
+44,45,"Portland, OR",59.33,27,63,118,,,,,,,,,,,,,
+45,46,"Charlotte, NC",59.29,40,70,80,,,,,,,,,,,,,
+46,47,"Boston, MA",59.28,34,9,147,,,,,,,,,,,,,
+47,48,"Aurora, CO",59.2,43,116,55,,500.0,19740.0,,216.0,Metropolitan Statistical Area,,"Denver-Aurora-Greeley, CO",Adams County,Colorado,8.0,1.0,Central
+48,49,"Austin, TX",58.87,52,26,87,,138.0,12420.0,,,Metropolitan Statistical Area,,,Bastrop County,Texas,48.0,21.0,Outlying
+49,50,"Washington, DC",58.69,15,129,138,,,,,,,,,,,,,
+50,51,"Chandler, AZ",58.66,63,95,43,,1346.0,38060.0,,429.0,Metropolitan Statistical Area,,"Phoenix-Mesa, AZ",Maricopa County,Arizona,4.0,13.0,Central
+51,52,"Cape Coral, FL",58.66,82,90,3,,289.0,15980.0,,163.0,Metropolitan Statistical Area,,"Cape Coral-Fort Myers-Naples, FL",Lee County,Florida,12.0,71.0,Central
+52,53,"Fort Lauderdale, FL",58.52,66,75,32,,1098.0,33100.0,22744.0,370.0,Metropolitan Statistical Area,"Fort Lauderdale-Pompano Beach-Sunrise, FL","Miami-Port St. Lucie-Fort Lauderdale, FL",Broward County,Florida,12.0,11.0,Central
+53,54,"Tempe, AZ",58.4,69,43,49,,,,,,,,,,,,,
+54,55,"Pearl City, HI",58.18,18,148,158,,,,,,,,,,,,,
+55,56,"Juneau, AK",58.0,20,73,177,,856.0,27940.0,,,Micropolitan Statistical Area,,,Juneau City and Borough,Alaska,2.0,110.0,Central
+56,57,"New York, NY",57.99,61,152,16,,,,,,,,,,,,,
+57,58,"Denver, CO",57.96,32,104,128,,500.0,19740.0,,216.0,Metropolitan Statistical Area,,"Denver-Aurora-Greeley, CO",Adams County,Colorado,8.0,1.0,Central
+58,59,"Chesapeake, VA",57.95,70,131,10,,,,,,,,,,,,,
+59,60,"Nashua, NH",57.85,85,78,5,,1042.0,31700.0,,148.0,Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH",Hillsborough County,New Hampshire,33.0,11.0,Central
+60,61,"Tampa, FL",57.85,79,29,34,,1709.0,45300.0,41304.0,,Metropolitan Statistical Area,"St. Petersburg-Clearwater-Largo, FL",,Pinellas County,Florida,12.0,103.0,Central
+61,62,"West Valley City, UT",57.64,81,51,20,,,,,,,,,,,,,
+62,63,"Virginia Beach, VA",57.59,64,120,51,,,,,,,,,,,,,
+63,64,"Cedar Rapids, IA",57.58,50,94,104,,299.0,16300.0,,168.0,Metropolitan Statistical Area,,"Cedar Rapids-Iowa City, IA",Benton County,Iowa,19.0,11.0,Outlying
+64,65,"Rancho Cucamonga, CA",57.45,75,33,52,,,,,,,,,,,,,
+65,66,"Miami, FL",57.45,58,27,117,,1098.0,33100.0,22744.0,370.0,Metropolitan Statistical Area,"Fort Lauderdale-Pompano Beach-Sunrise, FL","Miami-Port St. Lucie-Fort Lauderdale, FL",Broward County,Florida,12.0,11.0,Central
+66,67,"Peoria, AZ",57.37,71,126,14,,,,,,,,,,,,,
+67,68,"Bridgeport, CT",57.05,57,161,24,,252.0,14860.0,,408.0,Metropolitan Statistical Area,,"New York-Newark, NY-NJ-CT-PA",Greater Bridgeport Planning Region,Connecticut,9.0,120.0,Central
+68,69,"Nampa, ID",56.88,72,22,83,,,,,,,,,,,,,
+69,70,"Grand Rapids, MI",56.84,87,12,54,,668.0,24340.0,,266.0,Metropolitan Statistical Area,,"Grand Rapids-Wyoming, MI",Barry County,Michigan,26.0,15.0,Outlying
+70,71,"Durham, NC",56.83,39,76,141,,546.0,20500.0,,450.0,Metropolitan Statistical Area,,"Raleigh-Durham-Cary, NC",Chatham County,North Carolina,37.0,37.0,Central
+71,72,"Colorado Springs, CO",56.77,80,59,41,,402.0,17820.0,,,Metropolitan Statistical Area,,,El Paso County,Colorado,8.0,41.0,Central
+72,73,"St. Paul, MN",56.74,38,106,139,,,,,,,,,,,,,
+73,74,"Chicago, IL",56.72,41,174,58,,,,,,,,,,,,,
+74,75,"Orlando, FL",56.66,76,18,79,,1285.0,36740.0,,422.0,Metropolitan Statistical Area,,"Orlando-Lakeland-Deltona, FL",Lake County,Florida,12.0,69.0,Outlying
+75,76,"Los Angeles, CA",56.02,56,81,129,,1000.0,31080.0,11244.0,348.0,Metropolitan Statistical Area,"Anaheim-Santa Ana-Irvine, CA","Los Angeles-Long Beach, CA",Orange County,California,6.0,59.0,Central
+76,77,"Des Moines, IA",55.96,55,92,136,,511.0,19780.0,,218.0,Metropolitan Statistical Area,,"Des Moines-West Des Moines-Ames, IA",Dallas County,Iowa,19.0,49.0,Central
+77,78,"Pittsburgh, PA",55.47,95,13,59,,1357.0,38300.0,,430.0,Metropolitan Statistical Area,,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",Allegheny County,Pennsylvania,42.0,3.0,Central
+78,79,"Long Beach, CA",55.46,59,123,112,,1000.0,31080.0,11244.0,348.0,Metropolitan Statistical Area,"Anaheim-Santa Ana-Irvine, CA","Los Angeles-Long Beach, CA",Orange County,California,6.0,59.0,Central
+79,80,"Manchester, NH",55.28,106,65,12,,1042.0,31700.0,,148.0,Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH",Hillsborough County,New Hampshire,33.0,11.0,Central
+80,81,"Missoula, MT",55.05,73,37,133,,1131.0,33540.0,,,Metropolitan Statistical Area,,,Mineral County,Montana,30.0,61.0,Outlying
+81,82,"Mesa, AZ",55.05,84,89,62,,1346.0,38060.0,,429.0,Metropolitan Statistical Area,,"Phoenix-Mesa, AZ",Maricopa County,Arizona,4.0,13.0,Central
+82,83,"Ontario, CA",54.97,104,32,35,,1456.0,40140.0,,348.0,Metropolitan Statistical Area,,"Los Angeles-Long Beach, CA",Riverside County,California,6.0,65.0,Central
+83,84,"St. Petersburg, FL",54.93,90,20,94,,1709.0,45300.0,41304.0,,Metropolitan Statistical Area,"St. Petersburg-Clearwater-Largo, FL",,Pinellas County,Florida,12.0,103.0,Central
+84,85,"Providence, RI",54.92,103,6,73,,,,,,,,,,,,,
+85,86,"Hialeah, FL",54.84,68,137,88,,,,,,,,,,,,,
+86,87,"Moreno Valley, CA",54.79,96,82,29,,,,,,,,,,,,,
+87,88,"Port St. Lucie, FL",54.61,123,54,4,,1393.0,38940.0,,370.0,Metropolitan Statistical Area,,"Miami-Port St. Lucie-Fort Lauderdale, FL",Martin County,Florida,12.0,85.0,Central
+88,89,"Riverside, CA",54.6,89,16,108,,1456.0,40140.0,,348.0,Metropolitan Statistical Area,,"Los Angeles-Long Beach, CA",Riverside County,California,6.0,65.0,Central
+89,90,"Cheyenne, WY",54.5,78,60,121,,339.0,16940.0,,,Metropolitan Statistical Area,,,Laramie County,Wyoming,56.0,21.0,Central
+90,91,"Warwick, RI",54.3,67,134,143,,,,,,,,,,,,,
+91,92,"Fontana, CA",54.27,105,61,33,,,,,,,,,,,,,
+92,93,"Reno, NV",53.4,100,17,97,,1426.0,39900.0,,456.0,Metropolitan Statistical Area,,"Reno-Carson City-Gardnerville Ranchos, NV-CA",Lyon County,Nevada,32.0,19.0,Outlying
+93,94,"Irving, TX",53.23,98,53,84,,,,,,,,,,,,,
+94,95,"Tallahassee, FL",52.88,128,11,56,,1705.0,45220.0,,533.0,Metropolitan Statistical Area,,"Tallahassee-Bainbridge, FL-GA",Gadsden County,Florida,12.0,39.0,Outlying
+95,96,"Tacoma, WA",52.75,77,150,105,,1612.0,42660.0,21794.0,500.0,Metropolitan Statistical Area,"Everett, WA","Seattle-Tacoma, WA",Snohomish County,Washington,53.0,61.0,Central
+96,97,"Atlanta, GA",52.36,91,101,116,,94.0,12060.0,12054.0,122.0,Metropolitan Statistical Area,"Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",Barrow County,Georgia,13.0,13.0,Outlying
+97,98,"Columbia, SC",52.2,126,68,38,,407.0,17900.0,,192.0,Metropolitan Statistical Area,,"Columbia-Sumter-Orangeburg, SC",Calhoun County,South Carolina,45.0,17.0,Outlying
+98,99,"Grand Prairie, TX",52.18,120,109,48,,,,,,,,,,,,,
+99,100,"Wilmington, DE",52.15,116,147,17,,,,,,,,,,,,,
+100,101,"Garland, TX",52.04,112,105,72,,,,,,,,,,,,,
+101,102,"Rochester, NY",51.81,118,79,82,,1472.0,40380.0,,464.0,Metropolitan Statistical Area,,"Rochester-Batavia-Seneca Falls, NY",Livingston County,New York,36.0,51.0,Outlying
+102,103,"Las Cruces, NM",51.76,101,83,120,,945.0,29740.0,,238.0,Metropolitan Statistical Area,,"El Paso-Las Cruces, TX-NM",Doña Ana County,New Mexico,35.0,13.0,Central
+103,104,"Worcester, MA",51.65,74,117,171,,1903.0,49340.0,,148.0,Metropolitan Statistical Area,,"Boston-Worcester-Providence, MA-RI-NH",Worcester County,Massachusetts,25.0,27.0,Central
+104,105,"New Haven, CT",51.6,110,31,145,,1207.0,35300.0,,405.0,Metropolitan Statistical Area,,"New Haven-Hartford-Waterbury, CT",South Central Connecticut Planning Region,Connecticut,9.0,170.0,Central
+105,106,"Henderson, NV",51.55,133,135,22,,948.0,29820.0,,332.0,Metropolitan Statistical Area,,"Las Vegas-Henderson, NV",Clark County,Nevada,32.0,3.0,Central
+106,107,"Glendale, AZ",51.54,93,132,100,,,,,,,,,,,,,
+107,108,"Vancouver, WA",51.48,86,113,154,,1385.0,38900.0,,440.0,Metropolitan Statistical Area,,"Portland-Vancouver-Salem, OR-WA",Clackamas County,Oregon,41.0,5.0,Central
+108,109,"Milwaukee, WI",51.31,83,171,90,,1107.0,33340.0,,376.0,Metropolitan Statistical Area,,"Milwaukee-Racine-Waukesha, WI",Milwaukee County,Wisconsin,55.0,79.0,Central
+109,110,"Laredo, TX",51.21,124,14,124,,943.0,29700.0,,,Metropolitan Statistical Area,,,Webb County,Texas,48.0,479.0,Central
+110,111,"Jacksonville, FL",51.2,132,103,42,,828.0,27260.0,,300.0,Metropolitan Statistical Area,,"Jacksonville-Kingsland-Palatka, FL-GA",Baker County,Florida,12.0,3.0,Outlying
+111,112,"Phoenix, AZ",51.2,88,111,148,,1346.0,38060.0,,429.0,Metropolitan Statistical Area,,"Phoenix-Mesa, AZ",Maricopa County,Arizona,4.0,13.0,Central
+112,113,"Fort Worth, TX",51.01,119,119,78,,465.0,19100.0,19124.0,206.0,Metropolitan Statistical Area,"Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",Collin County,Texas,48.0,85.0,Central
+113,114,"Winston-Salem, NC",50.97,108,115,96,,1895.0,49180.0,,268.0,Metropolitan Statistical Area,,"Greensboro--Winston-Salem--High Point, NC",Davidson County,North Carolina,37.0,57.0,Central
+114,115,"Billings, MT",50.84,99,42,167,,191.0,13740.0,,,Metropolitan Statistical Area,,,Carbon County,Montana,30.0,9.0,Outlying
+115,116,"Brownsville, TX",50.47,136,67,68,,259.0,15180.0,,154.0,Metropolitan Statistical Area,,"Brownsville-Harlingen-Raymondville, TX",Cameron County,Texas,48.0,61.0,Central
+116,117,"Modesto, CA",50.4,131,46,102,,1138.0,33700.0,,488.0,Metropolitan Statistical Area,,"San Jose-San Francisco-Oakland, CA",Stanislaus County,California,6.0,99.0,Central
+117,118,"El Paso, TX",50.18,107,151,89,,572.0,21340.0,,238.0,Metropolitan Statistical Area,,"El Paso-Las Cruces, TX-NM",El Paso County,Texas,48.0,141.0,Central
+118,119,"Stockton, CA",50.18,115,85,132,,1689.0,44700.0,,488.0,Metropolitan Statistical Area,,"San Jose-San Francisco-Oakland, CA",San Joaquin County,California,6.0,77.0,Central
+119,120,"Lewiston, ME",49.99,146,24,61,,967.0,30340.0,,438.0,Metropolitan Statistical Area,,"Portland-Lewiston-South Portland, ME",Androscoggin County,Maine,23.0,1.0,Central
+120,121,"Buffalo, NY",49.86,122,100,111,,265.0,15380.0,,160.0,Metropolitan Statistical Area,,"Buffalo-Cheektowaga-Olean, NY",Erie County,New York,36.0,29.0,Central
+121,122,"Nashville, TN",49.55,111,130,130,,1184.0,34980.0,,400.0,Metropolitan Statistical Area,,"Nashville-Davidson--Murfreesboro, TN",Cannon County,Tennessee,47.0,15.0,Outlying
+122,123,"Arlington, TX",49.45,114,140,115,,465.0,19100.0,19124.0,206.0,Metropolitan Statistical Area,"Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",Collin County,Texas,48.0,85.0,Central
+123,124,"Dallas, TX",49.23,113,99,153,,465.0,19100.0,19124.0,206.0,Metropolitan Statistical Area,"Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",Collin County,Texas,48.0,85.0,Central
+124,125,"Newark, NJ",49.16,102,163,110,,1220.0,35620.0,29484.0,408.0,Metropolitan Statistical Area,"Lakewood-New Brunswick, NJ","New York-Newark, NY-NJ-CT-PA",Middlesex County,New Jersey,34.0,23.0,Central
+125,126,"Fresno, CA",49.14,129,55,135,,637.0,23420.0,,260.0,Metropolitan Statistical Area,,"Fresno-Hanford-Corcoran, CA",Fresno County,California,6.0,19.0,Central
+126,127,"Norfolk, VA",49.06,109,156,125,,,,,,,,,,,,,
+127,128,"Albuquerque, NM",49.04,92,98,174,,34.0,10740.0,,105.0,Metropolitan Statistical Area,,"Albuquerque-Santa Fe-Los Alamos, NM",Bernalillo County,New Mexico,35.0,1.0,Central
+128,129,"Houston, TX",48.83,94,145,157,,766.0,26420.0,,288.0,Metropolitan Statistical Area,,"Houston-Pasadena, TX",Austin County,Texas,48.0,15.0,Outlying
+129,130,"Greensboro, NC",48.77,97,108,168,,683.0,24660.0,,268.0,Metropolitan Statistical Area,,"Greensboro--Winston-Salem--High Point, NC",Guilford County,North Carolina,37.0,81.0,Central
+130,131,"Wichita, KS",48.38,130,136,101,,1873.0,48620.0,,556.0,Metropolitan Statistical Area,,"Wichita-Arkansas City-Winfield, KS",Butler County,Kansas,20.0,15.0,Central
+131,132,"San Bernardino, CA",48.25,140,36,131,,1456.0,40140.0,,348.0,Metropolitan Statistical Area,,"Los Angeles-Long Beach, CA",Riverside County,California,6.0,65.0,Central
+132,133,"Oklahoma City, OK",48.16,145,146,40,,1263.0,36420.0,,416.0,Metropolitan Statistical Area,,"Oklahoma City-Shawnee, OK",Canadian County,Oklahoma,40.0,17.0,Central
+133,134,"Tucson, AZ",47.83,134,93,137,,1747.0,46060.0,,536.0,Metropolitan Statistical Area,,"Tucson-Nogales, AZ",Pima County,Arizona,4.0,19.0,Central
+134,135,"Bakersfield, CA",47.58,143,102,107,,145.0,12540.0,,,Metropolitan Statistical Area,,,Kern County,California,6.0,29.0,Central
+135,136,"Salem, OR",47.38,117,96,178,,1523.0,41420.0,,440.0,Metropolitan Statistical Area,,"Portland-Vancouver-Salem, OR-WA",Marion County,Oregon,41.0,47.0,Central
+136,137,"Spokane, WA",47.36,139,48,152,,1663.0,44060.0,,518.0,Metropolitan Statistical Area,,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",Spokane County,Washington,53.0,63.0,Central
+137,138,"Fort Wayne, IN",47.3,142,138,85,,626.0,23060.0,,258.0,Metropolitan Statistical Area,,"Fort Wayne-Huntington-Auburn, IN",Allen County,Indiana,18.0,3.0,Central
+138,139,"Las Vegas, NV",47.08,153,157,39,,948.0,29820.0,,332.0,Metropolitan Statistical Area,,"Las Vegas-Henderson, NV",Clark County,Nevada,32.0,3.0,Central
+139,140,"Newport News, VA",46.7,127,165,126,,,,,,,,,,,,,
+140,141,"Lexington-Fayette, KY",46.63,125,144,151,,971.0,30460.0,,336.0,Metropolitan Statistical Area,,"Lexington-Fayette--Richmond--Frankfort, KY",Bourbon County,Kentucky,21.0,17.0,Outlying
+141,142,"Huntsville, AL",46.55,157,124,30,,787.0,26620.0,,290.0,Metropolitan Statistical Area,,"Huntsville-Decatur-Albertville, AL-TN",Limestone County,Alabama,1.0,83.0,Central
+142,143,"Columbus, OH",46.53,121,149,163,,425.0,18140.0,,198.0,Metropolitan Statistical Area,,"Columbus-Marion-Zanesville, OH",Delaware County,Ohio,39.0,41.0,Central
+143,144,"North Las Vegas, NV",46.38,160,160,26,,948.0,29820.0,,332.0,Metropolitan Statistical Area,,"Las Vegas-Henderson, NV",Clark County,Nevada,32.0,3.0,Central
+144,145,"San Antonio, TX",46.23,141,112,146,,1534.0,41700.0,,484.0,Metropolitan Statistical Area,,"San Antonio-New Braunfels-Kerrville, TX",Atascosa County,Texas,48.0,13.0,Outlying
+145,146,"Little Rock, AR",46.06,148,143,75,,984.0,30780.0,,340.0,Metropolitan Statistical Area,,"Little Rock-North Little Rock, AR",Faulkner County,Arkansas,5.0,45.0,Outlying
+146,147,"Kansas City, MO",45.84,137,127,159,,,,,,,,,,,,,
+147,148,"Philadelphia, PA",45.63,151,128,103,,,,,,,,,,,,,
+148,149,"Dover, DE",45.58,155,125,92,,534.0,20100.0,,428.0,Metropolitan Statistical Area,,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",Kent County,Delaware,10.0,1.0,Central
+149,150,"Baltimore, MD",45.18,138,172,109,,146.0,12580.0,,548.0,Metropolitan Statistical Area,,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",Anne Arundel County,Maryland,24.0,3.0,Central
+150,151,"Tulsa, OK",45.11,162,110,77,,1750.0,46140.0,,538.0,Metropolitan Statistical Area,,"Tulsa-Bartlesville-Muskogee, OK",Creek County,Oklahoma,40.0,37.0,Central
+151,152,"Indianapolis, IN",44.72,150,167,91,,797.0,26900.0,,294.0,Metropolitan Statistical Area,,"Indianapolis-Carmel-Muncie, IN",Boone County,Indiana,18.0,11.0,Central
+152,153,"Springfield, MO",44.64,170,74,71,,1668.0,44180.0,,,Metropolitan Statistical Area,,,Christian County,Missouri,29.0,43.0,Central
+153,154,"Richmond, VA",44.6,135,162,161,,1433.0,40060.0,,,Metropolitan Statistical Area,,,Amelia County,Virginia,51.0,7.0,Outlying
+154,155,"St. Louis, MO",44.55,147,153,127,,,,,,,,,,,,,
+155,156,"Amarillo, TX",44.51,164,122,74,,52.0,11100.0,,108.0,Metropolitan Statistical Area,,"Amarillo-Borger, TX",Armstrong County,Texas,48.0,11.0,Outlying
+156,157,"Louisville, KY",44.46,149,159,114,,,,,,,,,,,,,
+157,158,"New Orleans, LA",44.08,152,49,172,,1209.0,35380.0,,406.0,Metropolitan Statistical Area,,"New Orleans-Metairie-Slidell, LA-MS",Jefferson Parish,Louisiana,22.0,51.0,Central
+158,159,"Corpus Christi, TX",43.96,158,97,134,,450.0,18580.0,,204.0,Metropolitan Statistical Area,,"Corpus Christi-Kingsville-Alice, TX",Aransas County,Texas,48.0,7.0,Outlying
+159,160,"Casper, WY",43.89,144,155,165,,297.0,16220.0,,,Metropolitan Statistical Area,,,Natrona County,Wyoming,56.0,25.0,Central
+160,161,"Lubbock, TX",43.61,163,58,155,,1014.0,31180.0,,352.0,Metropolitan Statistical Area,,"Lubbock-Plainview, TX",Cochran County,Texas,48.0,79.0,Outlying
+161,162,"Knoxville, TN",41.98,166,80,164,,906.0,28940.0,,315.0,Metropolitan Statistical Area,,"Knoxville-Morristown-Sevierville, TN",Anderson County,Tennessee,47.0,1.0,Central
+162,163,"Cincinnati, OH",41.26,156,141,173,,,,,,,,,,,,,
+163,164,"Birmingham, AL",40.68,167,158,144,,196.0,13820.0,,142.0,Metropolitan Statistical Area,,"Birmingham-Cullman-Talladega, AL",Bibb County,Alabama,1.0,7.0,Outlying
+164,165,"Fort Smith, AR",40.23,179,45,122,,,,,,,,,,,,,
+165,166,"Mobile, AL",39.79,174,177,66,,1137.0,33660.0,,380.0,Metropolitan Statistical Area,,"Mobile-Daphne-Fairhope, AL",Mobile County,Alabama,1.0,97.0,Central
+166,167,"Chattanooga, TN",39.66,154,175,176,,,,,,,,,,,,,
+167,168,"Akron, OH",39.65,165,168,156,,15.0,10420.0,,184.0,Metropolitan Statistical Area,,"Cleveland-Akron-Canton, OH",Portage County,Ohio,39.0,133.0,Central
+168,169,"Baton Rouge, LA",39.61,169,114,175,,160.0,12940.0,,132.0,Metropolitan Statistical Area,,"Baton Rouge-Hammond, LA",Ascension Parish,Louisiana,22.0,5.0,Central
+169,170,"Fayetteville, NC",38.84,168,164,169,,599.0,22180.0,,246.0,Metropolitan Statistical Area,,"Fayetteville-Lumberton-Pinehurst, NC",Cumberland County,North Carolina,37.0,51.0,Central
+170,171,"Charleston, WV",38.75,176,30,170,,310.0,16620.0,,170.0,Metropolitan Statistical Area,,"Charleston-Huntington-Ashland, WV-OH-KY",Boone County,West Virginia,54.0,5.0,Outlying
+171,172,"Toledo, OH",38.29,175,142,160,,1730.0,45780.0,,,Metropolitan Statistical Area,,,Fulton County,Ohio,39.0,51.0,Outlying
+172,173,"Gulfport, MS",37.82,172,170,162,,703.0,25060.0,,,Metropolitan Statistical Area,,,Hancock County,Mississippi,28.0,45.0,Central
+173,174,"Columbus, GA",37.51,178,166,106,,,,,,,,,,,,,
+174,175,"Jackson, MS",37.33,161,181,179,,814.0,27140.0,,298.0,Metropolitan Statistical Area,,"Jackson-Vicksburg-Brookhaven, MS",Copiah County,Mississippi,28.0,29.0,Outlying
+175,176,"Augusta, GA",36.41,173,179,166,,,,,,,,,,,,,
+176,177,"Memphis, TN",35.48,159,182,181,,,,,,,,,,,,,
+177,178,"Montgomery, AL",35.4,177,173,142,,1144.0,33860.0,,388.0,Metropolitan Statistical Area,,"Montgomery-Selma, AL",Autauga County,Alabama,1.0,1.0,Central
+178,179,"Cleveland, OH",34.16,171,169,182,,380.0,17410.0,,184.0,Metropolitan Statistical Area,,"Cleveland-Akron-Canton, OH",Ashtabula County,Ohio,39.0,7.0,Outlying
+179,180,"Shreveport, LA",33.21,180,180,150,,1634.0,43340.0,,508.0,Metropolitan Statistical Area,,"Shreveport-Bossier City-Minden, LA",Bossier Parish,Louisiana,22.0,15.0,Central
+180,181,"Huntington, WV",32.83,182,107,140,,,,,,,,,,,,,
+181,182,"Detroit, MI",30.6,181,178,180,,518.0,19820.0,19804.0,220.0,Metropolitan Statistical Area,"Detroit-Dearborn-Livonia, MI","Detroit-Warren-Ann Arbor, MI",Wayne County,Michigan,26.0,163.0,Central
