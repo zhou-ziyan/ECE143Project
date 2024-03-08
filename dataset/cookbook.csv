@@ -1,0 +1,123 @@
+Key,Value
+GEOID10,"American Indian/Alaska Native/Native Hawaiian area
+identifier; a concatenation of Current American
+Indian/Alaska Native/Native Hawaiian area census code
+and reservation/statistical area or off-reservation trust
+land Hawaiian home land indicator"
+GEOID20,"American Indian/Alaska Native/Native Hawaiian area
+identifier; a concatenation of Current American
+Indian/Alaska Native/Native Hawaiian area census code
+and reservation/statistical area or off-reservation trust
+land Hawaiian home land indicator"
+STATEFP,Census state FIPS code
+COUNTYFP,Census county FIPS code
+TRACTCE,Current tribal census tract code
+BLKGRPCE,Current block group number
+CSA,Combined Statistical Area Code
+CSA_Name,CSA Area Name
+CBSA,FIPS
+CBSA_Name,Name of CBSA
+CBSA_POP,population of CBS area
+CBSA_EMP,Total Employment in area
+CBSA_WRK,number of workers in CBS area
+Ac_Total,Geometric Area of CBG
+Ac_Water,Total area in acres
+Ac_Land,Total land area in acres
+Ac_Unpr,Total area not protected from development
+TotPop,Population of area
+CountHU,Housing Units
+HH,Households
+P_WrkAge,percent of population that's working age
+AutoOwn0,Households with no car
+Pct_AO0,Percent of zero-car households in CBG
+AutoOwn1,Households that own 1 car
+Pct_AO1,Percent of 1 car households in CGG
+AutoOwn2p,households that own two or more cars
+Pct_AO2p,Percent of 2 or more car households in CBG
+Workers,# of workers in CBG
+R_LowWageWk,# of workers earning $1250 or less
+R_MedWageWk,# of workers earning more than $1250/month or less than $3333/month
+R_HiWageWk,# of workers earning $3333/month or more
+R_PCTLOWWAGE,"Percent of low wage workers in a CBG (home location),2017"
+TotEmp,"Total employment, 2017"
+E5_Ret,"Retail jobs within a 5-tier employment classification scheme (LEHD: CNS07), 2017"
+E5_Off,"Office jobs within a 5-tier employment classification scheme (LEHD: CNS09 + CNS10 + CNS11 + CNS13 +CNS20) , 2017"
+E5_Ind,Industrial jobs within a 5-tier employment classification scheme
+E5_Svc,Service jobs within a 5-tier employment classificationscheme
+E5_Ent,Entertainment jobs within a 5-tier employment classification scheme
+E8_Ret,Retail jobs within an 8-tier employment classification scheme
+E8_off,Office jobs within an 8-tier employment classification scheme
+E8_Ind,Industrial jobs within an 8-tier employment classification scheme
+E8_Svc,Service jobs within an 8-tier employment classification scheme
+E8_Ent,Entertainment jobs within an 8-tier employment classification scheme
+E8_Ed,Education jobs within an 8-tier employment classification scheme
+E8_Hlth,Health care jobs within an 8-tier employment classification scheme
+E8_Pub,Public administration jobs within an 8-tier employment classification scheme
+E_LowWageWk,"# of workers earning $1250/month or less (work location), 2017"
+E_MedWageWk,"# of workers earning more than $1250/month but less than $3333/month (work location), 2017"
+E_HiWageWk,# of workers earning $3333/month or more
+E_PctLowWage,"% LowWageWk of total #workers in a CBG (work location), 2017"
+D1A,Gross residential density (HU/acre) on unprotected land
+D1B,Gross population density (people/acre) on unprotected land
+D1C,Gross employment density (jobs/acre) on unprotected land
+D1C5_RET,Gross retail (5-tier) employment density (jobs/acre) on unprotected land
+D1C5_OFF,Gross office (5-tier) employment density (jobs/acre) on unprotected land
+D1C5_IND,Gross industrial (5-tier) employment density (jobs/acre) on unprotected land
+D1C5_SVC,Gross service (5-tier) employment density (jobs/acre) on unprotected land
+D1C5_ENT,Gross entertainment (5-tier) employment density (jobs/acre) on unprotected land
+D1C8_RET,Gross retail (8-tier) employment density (jobs/acre) on unprotected land
+D1C8_OFF,Gross office (8-tier) employment density (jobs/acre) on unprotected land
+D1C8_IND,Gross industrial (8-tier) employment density (jobs/acre) on unprotected land
+D1C8_SVC,Gross service (8-tier) employment density (jobs/acre) on unprotected land
+D1C8_ENT,Gross entertainment (8-tier) employment density (jobs/acre) on unprotected land
+D1C8_ED,Gross education(8-tier) employment density (jobs/acre) on unprotected land
+D1C8_PUB,Gross public sector(8-tier) employment density (jobs/acre) on unprotected land (prob)
+D1D,"Composite density measure combining residential, population, and various employment densities (prob)"
+D1_FLAG,Indicator flag for specific conditions or thresholds related to D1 series metrics (prob)
+D2A_JPHH,Jobs Per Household ratio within a Census Block Group (CBG) (prob)
+D2B_E5MIX,5-tier employment mix entropy measure without specified denominator for employment diversity (prob)
+D2B_E5MIXA,5-tier employment mix entropy with static 5 employment types as denominator for standardized employment diversity comparison (prob)
+D1C8_HLTH,Gross health care (8-tier) employment density (jobs/acre) on unprotected land
+D3AAO,Auto-oriented network density
+D3AMM,Multi-modal network density
+D3APO,Pedestrian-oriented network density
+D3B,Street intersection density
+D3BAO,Auto-oriented intersection density
+D3BMM3,Multi-modal intersection density (3 legs per square mile)
+D3BMM4,Multi-modal intersection density (4+ legs per square mile)
+D3BPO3,Pedestrian-oriented intesection density (3 legs per square mile)
+D3BPO4,Pedestrian-oriented intesection density (4+ legs per square mile)
+D4A,Distance from centroid to transit
+D4B025,Proportion of CBG employment 1/4 mile from transit
+D4B050,Proportion of CBG employment 1/2 mile from transit
+D4C,Aggregate frequency of transit service
+D4D,Aggregate frequency of transit service per square mile
+D4E,Aggregate frequency of transit service per capita
+D5AR,Jobs within 45 mins auto travel
+D5AE,Working age population within 45 mins auto travel
+D5BR,Jobs within 45 mins transit commute
+D5BE,Working age population within 45 mins transit commute
+D5CR,Proportional Accessibility to Regional Destinations - Auto (Employment accessibility)
+D5CRI,Regional Centrality Index – Auto (D5CR)
+D5CE,Proportional Accessibility to Regional Destinations - Auto (Working age population accessibility)
+D5CEI,Regional Centrality Index – Auto (D5CE)
+D5DR,Proportional Accessibility to Regional Destinations - Transit (Employment accessibility)
+D5DRI,Regional Centrality Index – Transit (D5CE)
+D5DE,Proportional Accessibility of Regional Destinations - Transit (Working age population accessibility)
+D5DEI,Regional Centrality Index – Transit (D5DE)
+D2A_Ranked,Quartile ranked order of D2A_EPHHM
+D2B_Ranked,Quartile ranked order of D2B_E8MIXA
+D3B_Ranked,Quartile ranked order of D3B
+D4A_Ranked,Quartile ranked order of D4A
+NatWalkInd,Walkability index
+D2B_E8MIX,8-tier employment entropy with denominator set to observed employment types in the CBG
+D2B_E8MIXA,8-tier employment entropy with denominator set to the static 8 employment types in the CBG
+D2A_EPHHM,Employment and household entropy
+D2C_TRPMX1,Employment and Household entropy based on vehicle trip production and trip attractions including all 5 employment categories
+D2C_TRPMX2,"Employment and household entropy calculations based on trip productions and trip attractions, including 4 of the 5 employment categories excluding industrial"
+D2C_TRIPEQ,"Trip productions and trip attractions equilibrium index; the closer to one, the more balanced the trip making"
+D2R_JOBPOP,Regional Diversity
+D2R_WRKEMP,"Household Workers per Job, as compared to the region"
+D2A_WRKEMP,"Household Workers per Job, by CBG"
+D2C_WREMLX,Household Workers per Job Equilibrium Index
+D3A,Total road network density
